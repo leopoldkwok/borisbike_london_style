@@ -1,5 +1,5 @@
 Boris Bikes
-============
+===========
 
 In week 2 at Makers Academy, we modelled the Barclays Cycle Hire which is a public bicycle hire scheme in London. This project introduced us to object-oriented programming(OOP) and testing with Rspec.
 
